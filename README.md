@@ -1,1 +1,1 @@
-These are the simulations I designed to understand how wave functions evolve under single barrier and double barrier envinronments when I started working under Prof. Swaroop Ganguly.
+These are the simulations I designed to understand how wave functions evolve under single barrier and double barrier envinronments when I started working under Prof. Swaroop Ganguly. I observed resonant tunneling phenomenon and studied how it can be exploited for our project on designing a quantum electronic nose.
